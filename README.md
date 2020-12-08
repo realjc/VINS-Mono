@@ -1,5 +1,5 @@
 Ubuntu20 ROS noetic 自带的OpenCV版本为4.2.0，与Vins-Mono的OpenCV版本相比，接口有一些变化。
-这里按照对应的Opencv4接口进行修改，可以编译通过，但还没有进一步测试。
+这里按照对应的Opencv4接口进行修改，可以编译通过，使用Euroc数据集测试正常。
 
 具体的修改内容：
 
